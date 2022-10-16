@@ -1,0 +1,16 @@
+
+{
+	"Employee": [
+		{
+		"name" : "Gokul",
+	    "age" : 36,
+	    "rights" : [ "admin", "editor", "contributor" ]
+		},
+		{
+			"name" : "Arun",
+			"age" : 36,
+			"rights" : [ "admin", "editor", "contributor" ]
+		}
+		
+	]
+}
